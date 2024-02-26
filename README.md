@@ -1,9 +1,8 @@
 Student at Bilkent University
 mehmet dedeler
-major : electrical and eloctronics.
+major : computer science.
 - 👋 Hi, I’m @mehmetdede1907
-- 👀 I’m interested in java and phyton
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Machine Learning 
 
 <!---
 mehmetdede1907/mehmetdede1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
